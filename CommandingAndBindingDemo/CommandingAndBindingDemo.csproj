@@ -54,7 +54,6 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="DegreesToAngleConverter.cs" />
-    <Compile Include="SetHighCommand.cs" />
     <Compile Include="SetLowCommand.cs" />
     <Compile Include="TemperatureVM.cs" />
     <Page Include="MainWindow.xaml">
